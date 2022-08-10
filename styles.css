@@ -1,0 +1,23 @@
+
+h1{
+    color: blue;
+    text-align: center;
+}
+.oi{
+    color: red;
+}
+#hey{
+    color: rgb(0, 145, 255);
+}
+
+p.czech{
+    color: black;
+}
+.rus.notrus{
+    color: brown;
+}
+.rus{
+    color: aqua;
+    font-size: 23px;
+    text-align: start;
+}
